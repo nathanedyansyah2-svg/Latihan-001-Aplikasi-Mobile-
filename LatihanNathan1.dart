@@ -1,4 +1,3 @@
-````dart
 void main() {
   print('hallo perkenalkan');
   String nama = 'Nathan';
@@ -30,4 +29,4 @@ void main() {
   String? catatan;
     print('Catatan : ${catatan ??'Mobile Legends Game Penghilang Stress'}');
 }
-````
+
